@@ -30,10 +30,8 @@ Conducted simple data wrangling and data cleaning:
 
 ## 📊 Visualization
 
-Produced a 1-pager dashboard using Tableau.
+Produced a 1-pager dashboard using PowerBi.
 
-Tableau: [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes)
 
-![Unicorns-2](https://user-images.githubusercontent.com/81607668/164443885-986bf154-9884-4312-b7cd-a1e128ee24b2.png)
 
 
