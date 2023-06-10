@@ -53,7 +53,7 @@ Conducted simple data wrangling and data cleaning:
 
 Produced a 2-pager dashboard using PowerBi.
 
-PowerBi: [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes)
+
 
 [Unicorn company dashborad.pdf](https://github.com/Yashodatta15/Maven_Unicorn_Challenge/files/11712902/Unicorn.company.dashborad.pdf)
 
