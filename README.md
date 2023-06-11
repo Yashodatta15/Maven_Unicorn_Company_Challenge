@@ -55,6 +55,3 @@ Produced a 2-pager dashboard using PowerBi.
 
 
 
-[Unicorn company dashborad.pdf](https://github.com/Yashodatta15/Maven_Unicorn_Challenge/files/11712902/Unicorn.company.dashborad.pdf)
-
-
